@@ -2,15 +2,15 @@
   "app": {
     "version": "24.1",
     "versionCode": "24100",
-    "link": "https://ghproxy.com/https://github.com/topjohnwu/Magisk/releases/download/v24.1/Magisk-v24.1.apk"
+    "link": "https://gh-proxy.com/https://github.com/topjohnwu/Magisk/releases/download/v24.1/Magisk-v24.1.apk"
   },
   "magisk": {
     "version": "24.1",
     "versionCode": "24100",
-    "link": "https://ghproxy.com/https://github.com/topjohnwu/Magisk/releases/download/v24.1/Magisk-v24.1.apk",
+    "link": "https://gh-proxy.com/https://github.com/topjohnwu/Magisk/releases/download/v24.1/Magisk-v24.1.apk",
     "md5": "959e46971c2eb500b91a053b2f1c1a8c"
   },
   "uninstaller": {
-    "link": "https://ghproxy.com/https://github.com/topjohnwu/Magisk/releases/download/v24.1/Magisk-v24.1.apk"
+    "link": "https://gh-proxy.com/https://github.com/topjohnwu/Magisk/releases/download/v24.1/Magisk-v24.1.apk"
   }
 }
